@@ -1,0 +1,18 @@
+Introduction
+The key functions that managers perform include planning, organizing, leading, and controlling. This module focuses specifically on the organizing function. Organizing involves coordinating and allocating a firm’s resources so that the firm can carry out its plans and achieve its goals. This organizing, or structuring, process is accomplished by:
+•	Determining work activities and dividing up tasks (division of labor)
+•	Grouping jobs and employees (departmentalization)
+•	Assigning authority and responsibilities (delegation)
+The result of the organizing process is a formal structure within an organization. An organization is the order and design of relationships within a company or firm. It consists of two or more people working together with a common objective and clarity of purpose. Formal organizations also have well-defined lines of authority, channels for information flow, and means of control. Human, material, financial, and information resources are deliberately connected to form the business organization. Some connections are long-lasting, such as the links among people in the finance or marketing department. Others can be changed at almost any time—for example, when a committee is formed to study a problem.
+Every organization has some kind of underlying structure. Typically, organizations base their frameworks on traditional, contemporary, or team-based approaches. Traditional structures are more rigid and group employees by function, products, processes, customers, or regions. Contemporary and team-based structures are more flexible and assemble employees to respond quickly to dynamic business environments. Regardless of the structural framework a company chooses to implement, all managers must first consider what kind of work needs to be done within the firm.
+Division of Labor
+The process of dividing work into separate jobs and assigning tasks to workers is called division of labor. In a fast-food restaurant, for example, some employees take or fill orders, others prepare food, a few clean and maintain equipment, and at least one supervises all the others. In an auto assembly plant, some workers install rearview mirrors, while others mount bumpers on bumper brackets. The degree to which the tasks are subdivided into smaller jobs is called specialization. Employees who work at highly specialized jobs, such as assembly-line workers, perform a limited number and variety of tasks. Employees who become specialists at one task, or a small number of tasks, develop greater skill in doing that particular job. This can lead to greater efficiency and consistency in production and other work activities. However, a high degree of specialization can also result in employees who are disinterested or bored due to the lack of variety and challenge.
+An organization chart is a visual representation of the structured relationships among tasks and the people given the authority to do those tasks. In the organization chart in Exhibit 7.4, each figure represents a job, and each job includes several tasks. The sales manager, for instance, must hire salespeople, establish sales territories, motivate and train the salespeople, and control sales operations. The chart also indicates the general type of work done in each position.
+
+The 5 Organizational Design Choices
+The design of a business structure imposes choices in terms of:
+•	Coordination
+•	Span of Control
+•	Work division and specialization (who does what)
+•	Distribution of authority (chain of authority, authority relations)
+•	Degree of centralization (decision making)
